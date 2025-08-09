@@ -10,19 +10,32 @@ I am passionate about low-level programming and hardware design, and I am eager 
 I have no prior job or paid internship experience, making this opportunity my first professional step. I am highly motivated, quick to learn new tools, and committed to delivering quality results in a collaborative environment.
 
 <h1>Relevant Skills and Experiences</h1>
-Programming Languages: C, C++, Verilog, SystemVerilog, Python (for automation and scripting)
 
-Hardware & Design Knowledge: Digital Logic Design, Computer Architecture, RTL design, FPGA basics
+<h4>Technical Skills</h4>
 
-Tools & Platforms: ModelSim, Vivado, GCC, GDB, Git, Linux Terminal
+Languages: C, C++, Python, Java, SQL, Verilog/SystemVerilog
 
-<h3>Experience:</h3>
+Concepts: Digital Logic Design, Computer Architecture, Operating Systems, Data Structures & Algorithms
 
-Designed and simulated a 4-bit ALU in Verilog
+Web Technologies: HTML, CSS, JavaScript, Tailwind CSS
 
-Created a traffic light controller simulation using FSM in Verilog
+Databases: MySQL, MongoDB
 
-Implemented data structures and algorithms in C/C++
+Tools: Git/GitHub, ModelSim, Vivado, GCC, GDB, Linux Terminal
+
+Soft Skills: Teamwork, Time Management, Critical Thinking, Problem-Solving
+
+<h4>Relevant Academic Projects</h4>
+
+4-bit ALU in Verilog – Designed and simulated an arithmetic logic unit with basic operations.
+
+Traffic Light Controller (FSM) – Implemented finite state machine logic using Verilog.
+
+Object Detection using AI (Python, Jupyter) – Achieved 95% accuracy in detecting objects from images.
+
+Real Estate Website – Built a responsive property listing platform with search and mapping features.
+
+ChatGPT Clone – Created an AI chatbot application using OpenAI API, Flask, and MongoDB.
 
 Written Linux shell scripts for process automation and file management
 
