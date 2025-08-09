@@ -1,7 +1,9 @@
 # anjul-chauhan-synopsys-internship-2025
-Application for Synopsys R&amp;D Engineering Internship 2025 – Skills &amp; Fit Overview.
+
 <h1>Internship Application – R&D Engineering Team, Synopsys</h1>
-Why I Am a Good Fit for This Role
+
+<h1></h1>Why I Am a Good Fit for This Role</h1>
+
 I am a B.Tech Computer Science Engineering graduate (2025) from Chandigarh University, with a strong foundation in C/C++, digital design concepts, and hardware description languages like Verilog/SystemVerilog.
 I am passionate about low-level programming and hardware design, and I am eager to contribute to Synopsys’ innovative R&D work.
 
@@ -14,7 +16,7 @@ Hardware & Design Knowledge: Digital Logic Design, Computer Architecture, RTL de
 
 Tools & Platforms: ModelSim, Vivado, GCC, GDB, Git, Linux Terminal
 
-Experience:
+<h3>Experience:</h3>
 
 Designed and simulated a 4-bit ALU in Verilog
 
